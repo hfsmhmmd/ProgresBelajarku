@@ -27,7 +27,3 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 **percobaan branch**  
 
 lorem ipsum dip in the sauce
-
-**percobaan fork & pr**  
-
-halo halo tes tes, love love, satu satu, dua dua
