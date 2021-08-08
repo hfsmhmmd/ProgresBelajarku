@@ -27,3 +27,8 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 **percobaan branch**  
 
 lorem ipsum dip in the sauce
+
+
+**percobaan squash 1** 
+commit ke1
+lorem ipsum use mushroom sauce 
