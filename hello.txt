@@ -17,3 +17,5 @@ commit ke-1
 
 commitke1
 
+Tambah A setelah review
+
